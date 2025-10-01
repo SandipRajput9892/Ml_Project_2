@@ -1,1 +1,6 @@
 
+# Python environment and build files
+venv/
+*.pyc
+__pycache__/
+logs/
