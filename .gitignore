@@ -1,5 +1,6 @@
 
 # Python environment and build files
+.artifacts
 venv/
 *.pyc
 __pycache__/
